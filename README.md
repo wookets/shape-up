@@ -16,14 +16,23 @@ Given that the company only exists through the sale of new medical devices, ther
 
 The first six weeks of this pitch, we will need to demonstrate the ability to show a UI form with the following basic elements and capture that data into a datastore. 
 
+The high level user flow will be; 
+1. Clinician goes to register patient. 
+2. They use our application. 
+3. Our appilication pushes that information to downstreams systems. 
+
+![UX-Flow High Level](UX-flow-highlevel.jpeg)
+
+The data they need to collect is roughly defined here;
 ![UX-Flow](UX-flow.jpeg)
 
-Data will be captured into a data base within this new application for now. Further pitches will involve punting this data to a queue - the queue is unknown at this point. 
+And a more detailed example of the data fields are defined here.
+
+Given we only have six weeks, this first pitch is to get this data collected into a local data store. Future pitches will see us moving that data to the necessary systems. The reason this is broken up is that those down stream systems are huge risks - where we have to be careful the data we send and some data is still entered manually between systems. 
 
 ## Rabbit Holes
 
 There are many known rabbit holes that will exist in future pitch documents. Please refer to the no-gos. 
-
 
 
 ## No-Gos
