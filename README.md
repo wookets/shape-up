@@ -16,12 +16,14 @@ Given that the company only exists through the sale of new medical devices, ther
 
 The first six weeks of this pitch, we will need to demonstrate the ability to show a UI form with the following basic elements and capture that data into a datastore. 
 
+![UX-Flow](UX-flow.jpeg)
+
+Data will be captured into a data base within this new application for now. Further pitches will involve punting this data to a queue - the queue is unknown at this point. 
 
 ## Rabbit Holes
 
 There are many known rabbit holes that will exist in future pitch documents. Please refer to the no-gos. 
 
-![UX-Flow](UX-flow.jpeg)
 
 
 ## No-Gos
@@ -31,6 +33,7 @@ There are many known rabbit holes that will exist in future pitch documents. For
 * Supporting multiple divions
 * Supporting Europe and other international terrioties
 * Integrating with multiple backend tracking systems / master data record systems
+* Integration with queues / message systems to share data 
 * Patient device self-registration
 * Strong demand from the business to capture more and more information about patients / devices
 * Further, new devices can bring in new registration requirements
