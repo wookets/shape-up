@@ -21,7 +21,7 @@ The first six weeks of this pitch, we will need to demonstrate the ability to sh
 
 There are many known rabbit holes that will exist in future pitch documents. Please refer to the no-gos. 
 
-
+![UX-Flow](UX-flow.jpeg)
 
 
 ## No-Gos
